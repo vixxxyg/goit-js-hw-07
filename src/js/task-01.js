@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const categories = document.querySelector('#categories');
 const items = categories.querySelectorAll('.item');
 console.log(`В списке ${items.length} категории`);
